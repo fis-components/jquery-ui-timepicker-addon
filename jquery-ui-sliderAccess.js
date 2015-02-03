@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 /*
  * jQuery UI Slider Access
  * By: Trent Richardson [http://trentrichardson.com]

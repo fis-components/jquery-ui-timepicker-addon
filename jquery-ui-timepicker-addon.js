@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 require('./jquery-ui-sliderAccess');
 /*! jQuery Timepicker Addon - v1.5.0 - 2014-09-01
 * http://trentrichardson.com/examples/timepicker
